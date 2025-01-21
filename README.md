@@ -3,5 +3,5 @@ I'm Brett from the United States, and I recently graduated from The Tech Academy
 
 ## Skills and Experience
 * 🐍 Python
-* 🥅 C#/.NET
+* 🥅 .NET/C#
 * 💻 HTML/CSS/JavaScript 
